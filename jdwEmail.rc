@@ -1,0 +1,8 @@
+Hi:
+  请发布仓库项目到生产环境。
+
+  WAR包（地址：http://192.168.1.158/ewandian/warehouse/tree/release/latest/warehouse.war）：
+  ewandian/warehouse:/warehouse.war
+
+  JS文件（地址：http://192.168.1.158/ewandian/zhpt-front/tree/release/latest/WEB-INF/resources/warehouse/*）：
+  ewandian/zhpt-front:/WEB-INF/resources/warehouse/*
